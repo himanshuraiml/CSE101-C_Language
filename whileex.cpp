@@ -4,6 +4,7 @@ using namespace std;
 
 int main() {
     int i=0;
+  /*
     bool condition =true;
     while (condition)
     {
@@ -11,7 +12,7 @@ int main() {
         i++;
         if(!(i<5))  //Note : No curly brackets used 
         condition=false; 
-    }  
+    }   */
 
     do {
         cout<<"This World is beautifl";
@@ -20,5 +21,6 @@ int main() {
     while (i<5);
    
     
+    return 0;
 
 }
