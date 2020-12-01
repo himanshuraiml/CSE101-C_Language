@@ -8,6 +8,6 @@ int main(){
    // int a=6;
    char ch=0;
     //deb(a);
-   cout<<""
+   cout
     return 0;
 }
