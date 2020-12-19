@@ -3,7 +3,7 @@
 using namespace std;
 
 void printInt(int printable){
-std::cout << "The int you passed in has value " << printable << std::endl;
+cout << "The int you passed in has value " << printable << endl;
 }
 /* void foo( int &i )
 {
