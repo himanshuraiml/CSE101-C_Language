@@ -1,2 +1,1 @@
-### C++-Examples
-Here is bunch of examples on various topics of c++.
+#COURSE :CSE 101 - C programming Language 
